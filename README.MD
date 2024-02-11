@@ -7,7 +7,7 @@
 ### Модель ракеты создана в конструкторе Kerbal Space Program
 <img src="https://github.com/KaurDanil/Chandrayaan-3/blob/main/screenshots/photo_2_2024-02-11_17-21-09.jpg" width=80% height=80%> 
 <img src="https://github.com/KaurDanil/Chandrayaan-3/blob/main/screenshots/photo_1_2024-02-11_17-21-09.jpg" width=80% height=80%>
-<img src="https://github.com/KaurDanil/Chandrayaan-3/blob/main/screenshots/photo_1_2024-02-11_17-21-09.jpg" width=80% height=80%>
+<img src="https://github.com/KaurDanil/Chandrayaan-3/blob/main/screenshots/photo_5_2024-02-11_17-21-09.jpg" width=80% height=80%>
 
 ### Программы 
 - Программа для [логирования высоты](https://github.com/KaurDanil/Chandrayaan-3/blob/main/log_altitude.py)
