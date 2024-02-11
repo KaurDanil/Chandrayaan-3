@@ -5,7 +5,7 @@
 -   Кауров Данил Николаевич (101Б) - ответственный за моделирование в Kerbal Space Program (KSP). 
 - 	Горбунов Павел Дмитриевич (101Б) - ответственный за поиск достоверной информации и программист.
 ### Модель ракеты создана в конструкторе Kerbal Space Program
-<img src="https://github.com/KaurDanil/Chandrayaan-3/blob/main/screen/photo_2024-02-11_12-42-23.jpg" width=80% height=80%> 
+<img src="https://github.com/KaurDanil/Chandrayaan-3/blob/main/screenshots/photo_2_2024-02-11_17-21-09.jpg" width=80% height=80%> 
 <img src="https://github.com/KaurDanil/Chandrayaan-3/blob/main/screen/photo_2024-02-11_12-42-36.jpg" width=80% height=80%>
 
 ### Программы 
