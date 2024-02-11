@@ -19,4 +19,4 @@
 
 <a href="" > <img src="https://www.svgrepo.com/show/354594/youtube.svg" width=23% height=23% ></a> 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-<a href="https://docs.google.com/document/d/1GSW5NDsIm8BGoYSBjGKCyhpDYZoPFbvoeEJLymOB0LM/edit" ><img src="https://www.svgrepo.com/show/353811/google-drive.svg" width=20% height=20% ></a>
+<a href="https://drive.google.com/drive/folders/1Hdf99W0WF5-g2hSxALlo2EMykD43L6QV?usp=sharing" ><img src="https://www.svgrepo.com/show/353811/google-drive.svg" width=20% height=20% ></a>
