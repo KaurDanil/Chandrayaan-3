@@ -13,6 +13,7 @@
 - Программа для [логирования высоты](https://github.com/KaurDanil/Chandrayaan-3/blob/main/log_altitude.py)
 - Программа для [логирования скорости](https://github.com/KaurDanil/Chandrayaan-3/blob/main/log_velocity.py)
 - Программа [сравнивающая математическую модель взлета и данные KSP](https://github.com/KaurDanil/Chandrayaan-3/blob/main/making_graphics.py)
+- Программа для [автопилота]()
 
 ### Ссылка на материалы проекта и видео
 
