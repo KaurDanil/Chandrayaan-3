@@ -16,6 +16,6 @@
 
 ### Ссылка на материалы проекта и видео
 
-<a href="" > <img src="https://www.svgrepo.com/show/354594/youtube.svg" width=23% height=23% ></a> 
+<a href="https://youtu.be/-2gjXzAgvUw" > <img src="https://www.svgrepo.com/show/354594/youtube.svg" width=23% height=23% ></a> 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <a href="https://drive.google.com/drive/folders/1Hdf99W0WF5-g2hSxALlo2EMykD43L6QV?usp=sharing" ><img src="https://www.svgrepo.com/show/353811/google-drive.svg" width=20% height=20% ></a>
